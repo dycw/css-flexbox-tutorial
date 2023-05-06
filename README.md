@@ -1,3 +1,3 @@
-# `template-generic`
+# CSS Flexbox Tutorial (The Net Ninja)
 
-Template for generic repositories
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG
